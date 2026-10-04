@@ -110,9 +110,9 @@ aside img {
 }
 
 .home-images img {
-    width: 105px;
-    height: 190px;
-    margin: 8px;
+     width: 100%;
+    height: 100%;
+    margin: 0;
     object-fit: cover;
 }
 
